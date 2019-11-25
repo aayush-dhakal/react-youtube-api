@@ -1,5 +1,3 @@
-## Live Demo
-https://react-youtubeapi12.herokuapp.com/
 
 ## Screenshot
 
