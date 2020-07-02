@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const KEY = 'AIzaSyC4d6dG5coFc5gUXpXRbIRCjprDXpU-l-I'
+const KEY = key
 
 export const baseParams = {
     part: "snippet",
